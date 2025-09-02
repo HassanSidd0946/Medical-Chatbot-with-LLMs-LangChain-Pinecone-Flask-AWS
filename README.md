@@ -1,7 +1,7 @@
 # Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
 # How to run?
-### STEPS:
+### STEPS:-
 
 Clone the repository
 
